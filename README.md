@@ -104,6 +104,14 @@ Here are some ideas to get you started:
 
 ---
 
+## 📝 My Recent Commits
+
+<!--START_SECTION:activity-->
+<!-- You can use tools like https://github.com/Readme-Workflows/Readme-Activity-Stats or https://github.com/marketplace/actions/github-activity-readme to show your latest commits automatically. -->
+<!--END_SECTION:activity-->
+
+---
+
 ## 🏆 Achievements
 
 ![MultiLanguage](https://img.shields.io/badge/MultiLanguage-Rainbow%20Lang%20User-ff69b4)
@@ -135,6 +143,10 @@ Here are some ideas to get you started:
 > — Steve Jobs
 
 ---
+
+<!--
+**Aman-Singh-07/Aman-Singh-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 
 <!--
