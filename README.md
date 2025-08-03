@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <b>he/him</b> <br>
-  📍 Uttar Pradesh, India &nbsp;|&nbsp; 🕒 14:04 - same time <br>
   🎓 Computer Science @ <b>Madan Mohan Malaviya University of Technology (MMMUT)</b> <br>
   📧 <a href="mailto:amansingh17112004@gmail.com">amansingh17112004@gmail.com</a> <br>
   🌐 <a href="https://aman-singh-07.github.io/PortfolioA07/">amansingha07.in</a>
