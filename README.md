@@ -94,24 +94,20 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Singh-07&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Aman-Singh-07&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Aman-Singh-07&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Aman-Singh-07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Aman-Singh-07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Aman-Singh-07&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
 ## 📝 My Recent Commits
 
-![](https://github-readme-stats.vercel.app/api?username=Aman-Singh-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aman-Singh-07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Aman-Singh-07&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--START_SECTION:activity-->
+<!-- You can use tools like https://github.com/Readme-Workflows/Readme-Activity-Stats or https://github.com/marketplace/actions/github-activity-readme to show your latest commits automatically. -->
+<!--END_SECTION:activity-->
 
 ---
 
@@ -146,6 +142,10 @@ Here are some ideas to get you started:
 > — Steve Jobs
 
 ---
+
+<!--
+**Aman-Singh-07/Aman-Singh-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 <!--
 **Aman-Singh-07/Aman-Singh-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
