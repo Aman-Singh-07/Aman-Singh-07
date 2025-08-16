@@ -95,11 +95,12 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Aman-Singh-07&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Singh-07&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> 
   <img src="https://streak-stats.demolab.com/?user=Aman-Singh-07&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=Aman-Singh-07&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 
