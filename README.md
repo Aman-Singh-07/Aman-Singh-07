@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📝 My Recent Commits
+<!-- ## 📝 My Recent Commits
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Aman-Singh-07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -113,7 +113,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aman-Singh-07&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Aman-Singh-07&icon=0&color=0)](https://visitcount.itsvg.in) -->
 <!--START_SECTION:activity-->
 <!-- You can use tools like https://github.com/Readme-Workflows/Readme-Activity-Stats or https://github.com/marketplace/actions/github-activity-readme to show your latest commits automatically. -->
 <!--END_SECTION:activity-->
