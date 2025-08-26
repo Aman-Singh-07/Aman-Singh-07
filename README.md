@@ -36,13 +36,44 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-- 👨‍💻 Passionate about building impactful web and mobile applications.
-- 📱 Currently diving deep into Android development and full-stack technologies.
-- 🧠 Enjoy solving algorithmic challenges and understanding real-world systems.
-- 🤝 Open to collaboration on open-source and innovative tech projects.
-- 📚 Active learner through coding platforms, hackathons, and community events.
-- 💬 Ask me about Android, Java, or problem-solving strategies.
-- ⚡ Fun fact: I believe clean code and clever humor make the perfect pair.
+- 👨‍💻 Passionate about building impactful web and mobile applications  
+- 📱 Currently diving deep into Android development and full-stack technologies  
+- 🧠 Enjoy solving algorithmic challenges and understanding real-world systems  
+- 🤝 Open to collaboration on open-source and innovative tech projects  
+- 📚 Active learner through coding platforms, hackathons, and community events  
+- 💬 Ask me about Android, Java, or problem-solving strategies  
+- ⚡ Fun fact: I believe clean code and clever humor make the perfect pair  
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Aman-Singh-07/Android-Notes-App">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-Singh-07&repo=Android-Notes-App&theme=tokyonight" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Aman-Singh-07/PortfolioA07">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-Singh-07&repo=PortfolioA07&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Aman-Singh-07/DSA-Java">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-Singh-07&repo=DSA-Java&theme=tokyonight" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Aman-Singh-07/WeatherApp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-Singh-07&repo=WeatherApp&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -79,15 +110,8 @@ Here are some ideas to get you started:
 
 ## 🧠 Problem Solving
 
-- HackerRank: <b>5⭐ in Java & Python</b>, <b>4⭐ in C Programming</b>  
+- HackerRank: **5⭐ in Java & Python**, **4⭐ in C Programming**  
 - Active on: Codeforces, CodeChef, LeetCode, GeeksforGeeks
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/aman-singh-3a4a06327/)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:amansingh17112004@gmail.com)
 
 ---
 
@@ -101,6 +125,20 @@ Here are some ideas to get you started:
   <br />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
+
+## 🔄 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!-- Automatically updated using GitHub Actions or third-party tools like Readme-Activity-Stats -->
+<!--END_SECTION:activity-->
+
+---
+
+## 👁️ Visitor Counter
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=Aman-Singh-07&label=Profile%20Views&color=6&icon=5)
 
 ---
 
@@ -136,6 +174,10 @@ Here are some ideas to get you started:
 
 ---
 
-Let me know if you'd like to add a “Projects” section, automate your recent commits, or include a visitor counter. I can help you optimize that too.
-this file) appears on your GitHub profile.
--->
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/aman-singh-3a4a06327/)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:amansingh17112004@gmail.com)
+
+---
+
