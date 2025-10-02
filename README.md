@@ -50,14 +50,6 @@
 
 ---
 
-## 📊 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aman-Singh-07&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -66,6 +58,14 @@
   <img src="https://streak-stats.demolab.com?user=Aman-Singh-07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📊 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aman-Singh-07&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -90,7 +90,7 @@
 
 <p align="center">
   <a href="https://github.com/Aman-Singh-07/PortfolioA07">PortfolioA07</a> •
-  <a href="https://github.com/Aman-Singh-07/AndroidProjects">AndroidProjects</a> •
-  <a href="https://github.com/Aman-Singh-07/DSA-Practice">DSA-Practice</a> •
-  <a href="https://github.com/Aman-Singh-07/WebApps">WebApps</a>
+  <a href="[https://github.com/Aman-Singh-07/DSA-Practice](https://github.com/Aman-Singh-07/Daily-CP-in-Java)">DSA/CP-Practice</a> •
+  <a href="[https://github.com/Aman-Singh-07/AndroidProjects](https://github.com/Aman-Singh-07/BMI-Calculator)">BMI Calculator</a> •
+  <a href="[https://github.com/Aman-Singh-07/WebApp](https://github.com/Aman-Singh-07/raja-mantri-chor-sipahi)">WebApps</a> •
 </p>
