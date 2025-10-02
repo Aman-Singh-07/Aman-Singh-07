@@ -90,7 +90,7 @@
 
 <p align="center">
   <a href="https://github.com/Aman-Singh-07/PortfolioA07">PortfolioA07</a> •
-  <a href="[https://github.com/Aman-Singh-07/DSA-Practice](https://github.com/Aman-Singh-07/Daily-CP-in-Java)">DSA/CP-Practice</a> •
-  <a href="[https://github.com/Aman-Singh-07/AndroidProjects](https://github.com/Aman-Singh-07/BMI-Calculator)">BMI Calculator</a> •
-  <a href="[https://github.com/Aman-Singh-07/WebApp](https://github.com/Aman-Singh-07/raja-mantri-chor-sipahi)">WebApps</a> •
+  <a href="https://github.com/Aman-Singh-07/Daily-CP-in-Java">DSA/CP-Practice</a> •
+  <a href="https://github.com/Aman-Singh-07/BMI-Calculator">BMI Calculator</a> •
+  <a href="https://github.com/Aman-Singh-07/raja-mantri-chor-sipahi">WebApps</a>
 </p>
