@@ -1,6 +1,4 @@
-Hi there 👋
-<!--**Aman-Singh-07/Aman-Singh-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+<!-- Profile Header -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/180750425?s=400&u=862a9ba0baeff7573a8ea41bbbe6bc02439a3930&v=4" width="120" />
 </p>
@@ -15,7 +13,10 @@ Hi there 👋
   🌐 <a href="https://aman-singh-07.github.io/PortfolioA07/">amansingha07.in</a>
 </p>
 
-🚀 **About Me**  
+---
+
+## 🚀 About Me
+
 - 👋 Hi! I'm Aman Singh, a Computer Science student at MMMUT.  
 - 🔧 I build both web and mobile applications.  
 - 💡 Currently exploring Android development and full-stack web technologies.  
@@ -27,24 +28,32 @@ Hi there 👋
 
 ---
 
-🛠 **Tech Stack**
+## 🛠 Tech Stack
 
-**Languages:** Java, Python, C, JavaScript  
-**Frontend:** HTML5, CSS3, Material UI  
-**Backend (Learning):** Java, MySQL  
-**Android (Learning):** Android Studio, XML, Firebase  
-**Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Canva
-
----
-
-🧩 **Active Problem Solver**  
-- HackerRank: **5⭐ Java & Python**, **4⭐ C Programming**  
-- Codeforces, CodeChef, LeetCode, GFG  
+| Category              | Technologies                                      |
+|----------------------|---------------------------------------------------|
+| **Languages**         | Java, Python, C, JavaScript                       |
+| **Frontend**          | HTML5, CSS3, Material UI                          |
+| **Backend (Learning)**| Java, MySQL                                       |
+| **Android (Learning)**| Android Studio, XML, Firebase                     |
+| **Tools**             | Git, GitHub, VS Code, IntelliJ IDEA, Canva        |
 
 ---
 
-🌐 **Socials**  
+## 🧩 Active Problem Solver
+
+- 🟩 HackerRank: **5⭐ Java & Python**, **4⭐ C Programming**  
+- 🟥 Codeforces  
+- 🟦 CodeChef  
+- 🟨 LeetCode  
+- 🟪 GeeksforGeeks  
+
+---
+
+## 🌐 Socials
+
 📧 Email above  
+🌐 [Portfolio](https://aman-singh-07.github.io/PortfolioA07/)  
 
 ---
 
@@ -52,20 +61,26 @@ Hi there 👋
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aman-Singh-07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Aman-Singh-07&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Aman-Singh-07&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /><br />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Aman-Singh-07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aman-Singh-07&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br />
   <img src="https://visitcount.itsvg.in/api?id=Aman-Singh-07&label=Profile%20Views&color=6&icon=5" alt="Visitor Counter" />
 </p>
 
 ---
 
-🏆 **Achievements**  
+## 🏆 Achievements
+
 MultiLanguage Stars • Repositories • Experience • Commits • Followers • Pull Requests • Issues
 
 ---
 
-✍️ **Words That Inspire Me**  
+## ✍️ Words That Inspire Me
+
 > "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action." — Dr. APJ Abdul Kalam  
 > "Your time is limited, so don’t waste it living someone else’s life." — Steve Jobs  
 > "Success is not in what you have, but who you are." — Bo Bennett  
