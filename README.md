@@ -50,10 +50,11 @@
 
 ---
 
-## 🌐 Socials
+## 📊 GitHub Highlights
 
-📧 Email above  
-🌐 [Portfolio](https://aman-singh-07.github.io/PortfolioA07/)  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aman-Singh-07&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -64,25 +65,32 @@
   <br />
   <img src="https://streak-stats.demolab.com?user=Aman-Singh-07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Aman-Singh-07&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br />
-  <img src="https://visitcount.itsvg.in/api?id=Aman-Singh-07&label=Profile%20Views&color=6&icon=5" alt="Visitor Counter" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 
-MultiLanguage Stars • Repositories • Experience • Commits • Followers • Pull Requests • Issues
+- MultiLanguage Stars • Repositories • Experience • Commits • Followers • Pull Requests • Issues  
 
 ---
 
-## ✍️ Words That Inspire Me
+## 💡 Random Dev Quote
 
 > "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action." — Dr. APJ Abdul Kalam  
 > "Your time is limited, so don’t waste it living someone else’s life." — Steve Jobs  
 > "Success is not in what you have, but who you are." — Bo Bennett  
 > "It always seems impossible until it's done." — Nelson Mandela  
 > "The only way to do great work is to love what you do." — Steve Jobs
+
+---
+
+## 📌 Top Contributed Repositories
+
+<p align="center">
+  <a href="https://github.com/Aman-Singh-07/PortfolioA07">PortfolioA07</a> •
+  <a href="https://github.com/Aman-Singh-07/AndroidProjects">AndroidProjects</a> •
+  <a href="https://github.com/Aman-Singh-07/DSA-Practice">DSA-Practice</a> •
+  <a href="https://github.com/Aman-Singh-07/WebApps">WebApps</a>
+</p>
