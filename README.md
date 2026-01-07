@@ -65,16 +65,21 @@ I am a **Computer Science Undergraduate** at **Madan Mohan Malaviya University o
 
 ---
 
-### 📊 Coding Statistics
+### 📈 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/Aman-Singh-07">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aman-Singh-07&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-  </a>
-  <a href="https://github.com/Aman-Singh-07">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="top langs" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Singh-07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Aman-Singh-07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+### 📊 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aman-Singh-07&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+</p>
 
 ---
 
