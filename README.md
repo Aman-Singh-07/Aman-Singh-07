@@ -1,96 +1,100 @@
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/180750425?s=400&u=862a9ba0baeff7573a8ea41bbbe6bc02439a3930&v=4" width="120" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Aman%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Android%20Dev%20%7C%20Java%20Specialist%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50" alt="Aman Singh Banner" />
+  
+  <br>
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Building+Scalable+Android+Apps;Cracking+Complex+DSA+Problems;Crafting+Full-Stack+Solutions;Always+Learning+New+Tech" alt="Typing SVG" /></a>
+</div>
 
-<h1 align="center">Hi there, I'm Aman Singh 👋</h1>
-<h3 align="center">Android Dev & Full-Stack Learner | DSA & Web Enthusiast | Creative Problem Solver</h3>
+<div align="center">
+  
+  <a href="mailto:amansingh17112004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://aman-singh-07.github.io/PortfolioA07/">
+    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Website" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-<p align="center">
-  <b>he/him</b> <br>
-  🎓 Computer Science @ <b>Madan Mohan Malaviya University of Technology (MMMUT)</b> <br>
-  📧 <a href="mailto:amansingh17112004@gmail.com">amansingh17112004@gmail.com</a> <br>
-  🌐 <a href="https://aman-singh-07.github.io/PortfolioA07/">amansingha07.in</a>
-</p>
-
----
-
-## 🚀 About Me
-
-- 👋 Hi! I'm Aman Singh, a Computer Science student at MMMUT.  
-- 🔧 I build both web and mobile applications.  
-- 💡 Currently exploring Android development and full-stack web technologies.  
-- 🧩 I enjoy solving problems, building useful apps, and understanding real-world systems.  
-- 📈 Consistently learning through coding platforms, building projects, and collaborating in tech events.  
-- 👯 Open to collaborating on open source and innovative projects.  
-- 💬 Ask me about Android, Java, or problem solving!  
-- ⚡ Fun fact: I believe code and humor go hand in hand.
+</div>
 
 ---
 
-## 🛠 Tech Stack
+### 👨‍💻 About Me
 
-| Category              | Technologies                                      |
-|----------------------|---------------------------------------------------|
-| **Languages**         | Java, Python, C, JavaScript                       |
-| **Frontend**          | HTML5, CSS3, Material UI                          |
-| **Backend (Learning)**| Java, MySQL                                       |
-| **Android (Learning)**| Android Studio, XML, Firebase                     |
-| **Tools**             | Git, GitHub, VS Code, IntelliJ IDEA, Canva        |
+I am a **Computer Science Undergraduate** at **Madan Mohan Malaviya University of Technology (MMMUT)** with a passion for building robust applications and solving algorithmic challenges.
 
----
-
-## 🧩 Active Problem Solver
-
-- 🟩 HackerRank: **5⭐ Java & Python**, **4⭐ C Programming**  
-- 🟥 Codeforces  
-- 🟦 CodeChef  
-- 🟨 LeetCode  
-- 🟪 GeeksforGeeks  
+- 🔭 I’m currently working on **Native Android Development & Full-Stack Web Apps**.
+- 🧩 **DSA Enthusiast:** I solve problems daily to sharpen my logic (Java/Python).
+- 🤝 I’m looking to collaborate on **Open Source Projects** and **Hackathons**.
+- ⚡ **Fun fact:** I believe clean code is the best documentation.
 
 ---
 
-## 📈 GitHub Stats
+### 🛠️ Technical Arsenal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Singh-07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=Aman-Singh-07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 📊 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aman-Singh-07&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <p><b>Languages & Core</b></p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js&theme=dark" />
+  
+  <p><b>Frameworks & Mobile</b></p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,materialui,nodejs,mysql&theme=dark" />
+  
+  <p><b>Tools & Platforms</b></p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,firebase&theme=dark" />
+</div>
 
 ---
 
-## 🏆 Achievements
+### 🧩 Competitive Programming Profiles
 
-- MultiLanguage Stars • Repositories • Experience • Commits • Followers • Pull Requests • Issues  
+<div align="center">
+  <a href="https://www.hackerrank.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"/>
+  </a>
+  <a href="https://codeforces.com/profile/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-298D35?style=flat&logo=GeeksforGeeks&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-## 💡 Random Dev Quote
+### 📊 Coding Statistics
 
-> "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action." — Dr. APJ Abdul Kalam  
-> "Your time is limited, so don’t waste it living someone else’s life." — Steve Jobs  
-> "Success is not in what you have, but who you are." — Bo Bennett  
-> "It always seems impossible until it's done." — Nelson Mandela  
-> "The only way to do great work is to love what you do." — Steve Jobs
+<div align="center">
+  <a href="https://github.com/Aman-Singh-07">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aman-Singh-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aman's GitHub Stats" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/Aman-Singh-07">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  </a>
+</div>
 
 ---
 
-## 📌 Top Contributed Repositories
+### 🏆 Featured Repositories
 
-<p align="center">
-  <a href="https://github.com/Aman-Singh-07/PortfolioA07">PortfolioA07</a> •
-  <a href="https://github.com/Aman-Singh-07/Daily-CP-in-Java">DSA/CP-Practice</a> •
-  <a href="https://github.com/Aman-Singh-07/BMI-Calculator">BMI Calculator</a> •
-  <a href="https://github.com/Aman-Singh-07/raja-mantri-chor-sipahi">WebApps</a>
-</p>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[PortfolioA07](https://github.com/Aman-Singh-07/PortfolioA07)** | My personal developer portfolio showcasing skills and projects. | `HTML` `CSS` `JS` |
+| **[Daily-CP-in-Java](https://github.com/Aman-Singh-07/Daily-CP-in-Java)** | A collection of optimized solutions for DSA problems. | `Java` `Algorithms` |
+| **[BMI-Calculator](https://github.com/Aman-Singh-07/BMI-Calculator)** | A functional Android application to calculate BMI. | `Android` `XML` `Java` |
+| **[WebApps Collection](https://github.com/Aman-Singh-07/raja-mantri-chor-sipahi)** | Interactive web games and utility applications. | `Web Dev` |
+
+---
+
+<div align="center">
+  <i>"Dreams transform into thoughts and thoughts result in action."</i> — <b>Dr. APJ Abdul Kalam</b>
+</div>
