@@ -51,19 +51,14 @@ I am a **Computer Science Undergraduate** at **Madan Mohan Malaviya University o
 ### 🧩 Competitive Programming Profiles
 
 <div align="center">
-  <a href="https://www.hackerrank.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"/>
   </a>
-  <a href="https://codeforces.com/profile/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white"/>
   </a>
-  <a href="https://www.codechef.com/users/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/-GeeksforGeeks-298D35?style=flat&logo=GeeksforGeeks&logoColor=white"/>
   </a>
 </div>
@@ -74,11 +69,10 @@ I am a **Computer Science Undergraduate** at **Madan Mohan Malaviya University o
 
 <div align="center">
   <a href="https://github.com/Aman-Singh-07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aman-Singh-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aman's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Aman-Singh-07&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
   </a>
-  <br/><br/>
   <a href="https://github.com/Aman-Singh-07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="top langs" />
   </a>
 </div>
 
