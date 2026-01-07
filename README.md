@@ -65,26 +65,30 @@ I am a **Computer Science Undergraduate** at **Madan Mohan Malaviya University o
 
 ---
 
-### 📈 GitHub Stats
+<h2 align="center">⚡ Coding Analytics</h2>
 
 <div align="center">
+  <a href="https://github.com/Aman-Singh-07">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aman-Singh-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="170" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Aman-Singh-07">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages" />
+  </a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman-Singh-07&show_icons=true&theme=tokyonight&hide_border=true)
+  <br />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Aman-Singh-07&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&layout=compact&theme=tokyonight&hide_border=true)
-
+  <a href="https://github.com/Aman-Singh-07">
+    <img src="https://streak-stats.demolab.com?user=Aman-Singh-07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
 </div>
 
-### 📊 GitHub Highlights
+<h2 align="center">🏆 Achievements & Trophies</h2>
 
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Aman-Singh-07&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true)
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Aman-Singh-07&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1" alt="Trophies" />
+  </a>
 </div>
-
 ---
 
 ### 🏆 Featured Repositories
