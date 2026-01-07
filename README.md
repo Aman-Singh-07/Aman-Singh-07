@@ -14,7 +14,7 @@
   <a href="https://aman-singh-07.github.io/PortfolioA07/">
     <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Website" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-USERNAME">
+  <a href="https://www.linkedin.com/in/aman-singh-3a4a06327/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
