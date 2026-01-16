@@ -68,24 +68,17 @@ I am a **Computer Science Undergraduate** at **Madan Mohan Malaviya University o
 
 <div align="center">
   <a href="https://github.com/Aman-Singh-07">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aman-Singh-07&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=false" height="170" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Aman-Singh-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="170" alt="Aman's GitHub Stats" />
   </a>
+  
   <a href="https://github.com/Aman-Singh-07">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6" height="170" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages" />
   </a>
 
   <br />
 
-  <a href="https://github.com/Aman-Singh-07">
-    <img src="https://streak-stats.demolab.com?user=Aman-Singh-07&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
-</div>
-
-<h2 align="center">🏆 Achievements & Trophies</h2>
-
-<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aman-Singh-07&amp;theme=tokyonight&amp;no-frame=true&amp;margin-w=15&amp;margin-h=15&amp;row=1" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Aman-Singh-07&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
 </div>
 ---
