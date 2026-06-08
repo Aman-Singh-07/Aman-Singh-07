@@ -1,49 +1,40 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Aman%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Android%20Dev%20%7C%20Java%20Specialist%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50" alt="Aman Singh Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Aman%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%7C%20Competitive%20Programmer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" alt="Aman Singh Banner" />
   
   <br>
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Building+Scalable+Android+Apps;Cracking+Complex+DSA+Problems;Crafting+Full-Stack+Solutions;Always+Learning+New+Tech" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Mastering+Data+Structures;Optimizing+Core+Algorithms;Exploring+Machine+Learning;Building+Scalable+Systems" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-  
   <a href="mailto:amansingh17112004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://aman-singh-07.github.io/PortfolioA07/">
-    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/aman-singh-3a4a06327/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a **Computer Science Undergraduate** at **Madan Mohan Malaviya University of Technology (MMMUT)** with a passion for building robust applications and solving algorithmic challenges.
+[cite_start]I am Aman Singh[cite: 63]. [cite_start]I am a B. Tech Computer Science and Engineering undergraduate at Madan Mohan Malaviya University of Technology, Gorakhpur[cite: 65, 66, 69]. [cite_start]I currently maintain a CGPA of 9.87[cite: 77]. 
 
-- 🔭 I’m currently working on **Native Android Development & Full-Stack Web Apps**.
-- 🧩 **DSA Enthusiast:** I solve problems daily to sharpen my logic (Java/Python).
-- 🤝 I’m looking to collaborate on **Open Source Projects** and **Hackathons**.
-- ⚡ **Fun fact:** I believe clean code is the best documentation.
+* [cite_start]🔭 **Current Focus:** My technical areas of interest include Machine Learning, Generative AI, Competitive Programming, Data Structures & Algorithms, and Cybersecurity[cite: 113].
+* [cite_start]🧩 **Algorithmic Problem Solving:** I have collectively solved 2,700+ problems across various coding platforms[cite: 121]. [cite_start]I have also maintained a consistent 480-day continuous coding streak[cite: 120]. 
+* [cite_start]🛡️ **Cybersecurity:** I actively participate in team-based Capture The Flag (CTF) events, recently competing as a national finalist in the 12-hour continuous live HACK IITK 2026 Grand Finale[cite: 122]. [cite_start]I also secured a Global Rank of 56 in PsychCTF 2026 with my team, "5ev3n"[cite: 124].
 
 ---
 
 ### 🛠️ Technical Arsenal
 
 <div align="center">
-  <p><b>Languages & Core</b></p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js&theme=dark" />
+  <p><b>Core Languages</b></p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark" />
   
-  <p><b>Frameworks & Mobile</b></p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,materialui,nodejs,mysql&theme=dark" />
-  
-  <p><b>Tools & Platforms</b></p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,firebase&theme=dark" />
+  <p><b>Databases & Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux&theme=dark" />
 </div>
 
 ---
@@ -51,16 +42,10 @@ I am a **Computer Science Undergraduate** at **Madan Mohan Malaviya University o
 ### 🧩 Competitive Programming Profiles
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white"/>
-  </a>
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"/>
-  </a>
-    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white"/>
-  </a>
-    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white"/>
-  </a>
-    <img src="https://img.shields.io/badge/-GeeksforGeeks-298D35?style=flat&logo=GeeksforGeeks&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/-LeetCode_Knight_(1972)-FFA116?style=flat&logo=LeetCode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Codeforces_Pupil_(1256)-1F8ACB?style=flat&logo=Codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CodeChef_2--Star_(1553)-5B4638?style=flat&logo=CodeChef&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HackerRank_5--Star-2EC866?style=flat&logo=HackerRank&logoColor=white"/>
 </div>
 
 ---
@@ -71,7 +56,7 @@ I am a **Computer Science Undergraduate** at **Madan Mohan Malaviya University o
     <img src="https://github-readme-stats.vercel.app/api?username=Aman-Singh-07&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=false" height="170" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Aman-Singh-07">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6" height="170" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=4" height="170" alt="Top Languages" />
   </a>
 
   <br />
@@ -81,23 +66,13 @@ I am a **Computer Science Undergraduate** at **Madan Mohan Malaviya University o
   </a>
 </div>
 
-<h2 align="center">🏆 Achievements & Trophies</h2>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aman-Singh-07&amp;theme=tokyonight&amp;no-frame=true&amp;margin-w=15&amp;margin-h=15&amp;row=1" alt="Trophies" />
-  </a>
-</div>
 ---
 
-### 🏆 Featured Repositories
+### 🏆 Featured Repository
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[PortfolioA07](https://github.com/Aman-Singh-07/PortfolioA07)** | My personal developer portfolio showcasing skills and projects. | `HTML` `CSS` `JS` |
-| **[Daily-CP-in-Java](https://github.com/Aman-Singh-07/Daily-CP-in-Java)** | A collection of optimized solutions for DSA problems. | `Java` `Algorithms` |
-| **[BMI-Calculator](https://github.com/Aman-Singh-07/BMI-Calculator)** | A functional Android application to calculate BMI. | `Android` `XML` `Java` |
-| **[WebApps Collection](https://github.com/Aman-Singh-07/raja-mantri-chor-sipahi)** | Interactive web games and utility applications. | `Web Dev` |
+| **[Daily-CP-in-Java](https://github.com/Aman-Singh-07/Daily-CP-in-Java)** | A well-organized, comprehensive collection of optimized solutions for daily competitive programming problems. | `Java` `Algorithms` `Data Structures` |
 
 ---
 
