@@ -19,11 +19,11 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am Aman Singh[cite: 63]. [cite_start]I am a B. Tech Computer Science and Engineering undergraduate at Madan Mohan Malaviya University of Technology, Gorakhpur[cite: 65, 66, 69]. [cite_start]I currently maintain a CGPA of 9.87[cite: 77]. 
+I am Aman Singh. I am a B. Tech Computer Science and Engineering undergraduate at Madan Mohan Malaviya University of Technology, Gorakhpur. I currently maintain a CGPA of 9.87. 
 
-* [cite_start]🔭 **Current Focus:** My technical areas of interest include Machine Learning, Generative AI, Competitive Programming, Data Structures & Algorithms, and Cybersecurity[cite: 113].
-* [cite_start]🧩 **Algorithmic Problem Solving:** I have collectively solved 2,700+ problems across various coding platforms[cite: 121]. [cite_start]I have also maintained a consistent 480-day continuous coding streak[cite: 120]. 
-* [cite_start]🛡️ **Cybersecurity:** I actively participate in team-based Capture The Flag (CTF) events, recently competing as a national finalist in the 12-hour continuous live HACK IITK 2026 Grand Finale[cite: 122]. [cite_start]I also secured a Global Rank of 56 in PsychCTF 2026 with my team, "5ev3n"[cite: 124].
+* 🔭 **Current Focus:** My technical areas of interest include Machine Learning, Generative AI, Competitive Programming, Data Structures & Algorithms, and Cybersecurity.
+* 🧩 **Algorithmic Problem Solving:** I have collectively solved 2,700+ problems across various coding platforms. I have also maintained a consistent 480-day continuous coding streak. 
+* 🛡️ **Cybersecurity:** I actively participate in team-based Capture The Flag (CTF) events, recently competing as a national finalist in the 12-hour continuous live HACK IITK 2026 Grand Finale. I also secured a Global Rank of 56 in PsychCTF 2026 with my team, "5ev3n".
 
 ---
 
