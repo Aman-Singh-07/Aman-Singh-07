@@ -31,10 +31,12 @@
 
 <div align="center">
   <p><b>Core Languages</b></p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,c&theme=dark" alt="Core Languages" />
   
+  <br><br>
+
   <p><b>Databases & Tools</b></p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,github,vscode&theme=dark" alt="Tools" />
 </div>
 
 ---
@@ -42,13 +44,14 @@
 ### 🧩 Competitive Programming Profiles
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-LeetCode_Knight_(1972)-FFA116?style=flat&logo=LeetCode&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-Codeforces_Pupil_(1256)-1F8ACB?style=flat&logo=Codeforces&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CodeChef_2--Star_(1553)-5B4638?style=flat&logo=CodeChef&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-HackerRank_5--Star-2EC866?style=flat&logo=HackerRank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LeetCode_Knight_(1972)-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/-Codeforces_Pupil_(1256)-1F8ACB?style=flat&logo=Codeforces&logoColor=white" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/-CodeChef_2--Star_(1553)-5B4638?style=flat&logo=CodeChef&logoColor=white" alt="CodeChef" />
+    <img src="https://img.shields.io/badge/-HackerRank_5--Star-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="HackerRank" />
 </div>
 
 ---
+
 <h2 align="center">⚡ Coding Analytics</h2>
 
 <div align="center">
