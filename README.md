@@ -52,7 +52,7 @@ I am Aman Singh. I am a B. Tech Computer Science and Engineering undergraduate a
 
 ---
 
-<h2 align="center">⚡ Coding Analytics</h2>
+<h2 align="center">⚡ Analytics</h2>
 
 <div align="center">
 
