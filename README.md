@@ -55,14 +55,6 @@ I am Aman Singh. I am a B. Tech Computer Science and Engineering undergraduate a
 <h2 align="center">⚡ Coding Analytics</h2>
 
 <div align="center">
-  <a href="https://github.com/Aman-Singh-07">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aman-Singh-07&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=false" height="170" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Aman-Singh-07">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=4" height="170" alt="Top Languages" />
-  </a>
-
-  <br />
 
   <a href="https://github.com/Aman-Singh-07">
     <img src="https://streak-stats.demolab.com?user=Aman-Singh-07&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
