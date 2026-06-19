@@ -22,7 +22,7 @@
 I am Aman Singh. I am a B. Tech Computer Science and Engineering undergraduate at Madan Mohan Malaviya University of Technology, Gorakhpur. I currently maintain a CGPA of 9.87. 
 
 * 🔭 **Current Focus:** My technical areas of interest include Machine Learning, Generative AI, Competitive Programming, Data Structures & Algorithms, and Cybersecurity.
-* 🧩 **Algorithmic Problem Solving:** I have collectively solved 2,700+ problems across various coding platforms. I have also maintained a consistent 480-day continuous coding streak. 
+* 🧩 **Algorithmic Problem Solving:** I have collectively solved 2,700+ problems across various coding platforms. I have also maintained a consistent 500+ day continuous coding streak. 
 * 🛡️ **Cybersecurity:** I actively participate in team-based Capture The Flag (CTF) events, recently competing as a national finalist in the 12-hour continuous live HACK IITK 2026 Grand Finale. I also secured a Global Rank of 56 in PsychCTF 2026 with my team, "5ev3n".
 
 ---
