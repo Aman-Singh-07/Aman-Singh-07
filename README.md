@@ -44,9 +44,9 @@ I am Aman Singh. I am a B. Tech Computer Science and Engineering undergraduate a
 ### 🧩 Competitive Programming Profiles
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-LeetCode_Knight_(1972)-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="LeetCode" />
-    <img src="https://img.shields.io/badge/-Codeforces_Pupil_(1256)-1F8ACB?style=flat&logo=Codeforces&logoColor=white" alt="Codeforces" />
-    <img src="https://img.shields.io/badge/-CodeChef_2--Star_(1553)-5B4638?style=flat&logo=CodeChef&logoColor=white" alt="CodeChef" />
+    <img src="https://img.shields.io/badge/-LeetCode_Knight-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/-Codeforces_Pupil-1F8ACB?style=flat&logo=Codeforces&logoColor=white" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/-CodeChef_2--Star-5B4638?style=flat&logo=CodeChef&logoColor=white" alt="CodeChef" />
     <img src="https://img.shields.io/badge/-HackerRank_5--Star-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="HackerRank" />
 </div>
 
