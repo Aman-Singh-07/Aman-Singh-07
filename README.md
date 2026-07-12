@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Aman%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%7C%20Competitive%20Programmer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" alt="Aman Singh Banner" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Aman%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Competitive%20Programmer%20%7C%20Java%20Developer%20%7C%20AI%20Systems%20Builder&descAlignY=60&descColor=8892b0" alt="header"/>
 
   <br>
 
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
----
+
 ## About Me
 
 B.Tech Computer Science undergraduate at **Madan Mohan Malaviya University of Technology** (CGPA: 9.81), working primarily in **Java**, with a long-term interest in Quantitative Development, Artificial Intelligence, and scalable Software Engineering.
@@ -72,26 +72,11 @@ Competitive programming has been one of the biggest drivers of my growth as a so
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aman-Singh-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-
 <img src="https://streak-stats.demolab.com?user=Aman-Singh-07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-Singh-07&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%"/>
 
 </div>
 
 <br>
-
-## 📫 Contact
-
-<div align="center">
-
-<a href="mailto:amansingh17112004@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/aman-singh-3a4a06327/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-</div>
