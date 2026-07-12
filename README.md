@@ -1,15 +1,19 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Aman%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%7C%20Competitive%20Programmer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" alt="Aman Singh Banner" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Aman%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Competitive%20Programmer%20%7C%20Java%20Developer%20%7C%20AI%20Systems%20Builder&descAlignY=60&descColor=8892b0" alt="header"/>
+  <br>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Engineering+AI+systems%2C+one+algorithm+at+a+time;Java+%7C+Python+%7C+Data+Structures+%26+Algorithms" alt="Typing SVG" />
-</a>
-
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Mastering+Data+Structures;Optimizing+Core+Algorithms;Exploring+Machine+Learning;Building+Scalable+Systems" alt="Typing SVG" /></a>
 </div>
-
-<br>
-
+<div align="center">
+  <a href="mailto:amansingh17112004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/aman-singh-3a4a06327/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+---
 ## About Me
 
 B.Tech Computer Science undergraduate at **Madan Mohan Malaviya University of Technology** (CGPA: 9.81), working primarily in **Java**, with a long-term interest in Quantitative Development, Artificial Intelligence, and scalable Software Engineering.
