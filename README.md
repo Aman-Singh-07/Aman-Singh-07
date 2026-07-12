@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Aman%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Competitive%20Programmer%20%7C%20Java%20Developer%20%7C%20AI%20Systems%20Builder&descAlignY=60&descColor=8892b0" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Engineering+AI+systems+with+the+mindset+of+a+competitive+programmer;Java+%7C+Python+%7C+Data+Structures+%26+Algorithms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Engineering+AI+systems%2C+one+algorithm+at+a+time;Java+%7C+Python+%7C+Data+Structures+%26+Algorithms" alt="Typing SVG" />
 </a>
 
 </div>
