@@ -165,6 +165,6 @@ B.Tech in Computer Science & Engineering · CGPA 9.81/10 · Aug 2024 – Present
 
 [LinkedIn](https://www.linkedin.com/in/aman-singh-3a4a06327) ·
 [Email](mailto:amansingh17112004@gmail.com) ·
-[GitHub](https://github.com/Aman-Singh-07) ·
+[GitHub](https://github.com/Aman-Singh-07)
 
 </div>
