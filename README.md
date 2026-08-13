@@ -1,82 +1,104 @@
-<div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Aman%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Competitive%20Programmer%20%7C%20Java%20Developer%20%7C%20AI%20Systems%20Builder&descAlignY=60&descColor=8892b0" alt="header"/>
+# Aman Singh
 
-  <br>
+**B.Tech CSE @ MMMUT · AI/LLM & Agent Engineering · Backend Systems · Competitive Programming**
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Mastering+Data+Structures;Optimizing+Core+Algorithms;Exploring+Machine+Learning;Building+Scalable+Systems" alt="Typing SVG" /></a>
-</div>
-<div align="center">
-  <a href="mailto:amansingh17112004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/aman-singh-3a4a06327/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+## About
 
-## About Me
+B.Tech CSE student at Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur — CGPA 9.81/10. I build multi-agent AI systems that combine LLMs, retrieval, and workflow orchestration with real backend and database engineering underneath them — not just prompt chains. My work spans RAG, embeddings, agentic workflows, PostgreSQL-backed state, and automation.
 
-B.Tech Computer Science undergraduate at **Madan Mohan Malaviya University of Technology** (CGPA: 9.81), working primarily in **Java**, with a long-term interest in Quantitative Development, Artificial Intelligence, and scalable Software Engineering.
+Alongside that, I compete in DSA/competitive programming — LeetCode Knight, Codeforces Pupil, CodeChef 2★.
 
-I care about correctness under pressure — whether that's a contest judge's edge case or an LLM returning malformed output in production.
+## What I Build
 
-<br>
+**AI / LLM Systems** — RAG pipelines, embeddings, retrieval, prompt engineering
+**Agentic Workflows** — multi-agent orchestration, DAGs, human-in-the-loop workflows
+**Backend & Data Systems** — Python/Flask APIs, PostgreSQL/Supabase, workflow state, concurrency control
+**Competitive Programming** — Java, DSA, algorithmic problem solving
 
-## 🔭 Current Focus
+## Featured Projects
 
-- Solving challenging algorithmic problems through competitive programming
-- Building reliable backend systems and AI-powered applications
-- Exploring LLMs, AI agents, and workflow automation
-- Writing maintainable, production-oriented software
+### 01 · YaiyuResearch AI
 
-<br>
+An `n8n`-orchestrated research pipeline. Source documents are embedded and stored in `Supabase`/`PostgreSQL` with `pgvector`, where HNSW indexing supports similarity retrieval. `SHA-256` hashing deduplicates incoming sources so the same document doesn't repeatedly re-enter the pipeline. Workflow state is persisted in PostgreSQL, allowing the process to resume across stages and pause for human approval before final synthesis. External academic APIs feed the ingestion stage.
 
-## 🚀 Featured Projects
+**Flow:** sources → ingestion → deduplication → embedding → vector storage → retrieval → agent processing → human approval → synthesis
 
-<div align="center">
+`n8n` `Supabase` `PostgreSQL` `pgvector` `RAG` `Embeddings`
 
-| Project | What It Does | Stack |
-|---|---|---|
-| **[AceInterview AI](https://github.com/Aman-Singh-07/AceInterview-AI)** | AI-powered interview preparation platform — resume ATS analysis, AI mock interviews, timed coding challenges with AI code review, and a 90-day career roadmap generator, built on a modular Flask architecture with a multi-stage JSON repair pipeline for reliable LLM output | `Python` `Flask` `IBM watsonx.ai` `Docker` |
-| **[AcePilot AI](https://github.com/Aman-Singh-07/acepilot-ai)** | Multi-agent career copilot (Google AI Agents Intensive capstone) — a coordinator agent managing four specialists (resume analysis, project recommendations via GitHub MCP, learning roadmap, interview prep), with a regex-based input security guardrail | `Python` `Google ADK` `Gemini 2.0 Flash` `Streamlit` |
-| **[Daily-CP-in-Java](https://github.com/Aman-Singh-07/Daily-CP-in-Java)** | An organized, growing archive of Java solutions across Codeforces, CodeChef, LeetCode, and GeeksforGeeks | `Java` `Algorithms` `Data Structures` |
+### 02 · FinVriksh AI
 
-</div>
+A multi-agent financial research architecture. Five specialized agents — Planner, MarketData, News, Filings, and ReportSynthesis — execute concurrently via `asyncio.gather`, coordinated through a Directed Acyclic Graph with finite-state workflow transitions. Shared state is `PostgreSQL`-backed with approval checkpoints between stages. Since multiple agents can attempt to update shared state at the same time, Optimistic Concurrency Control is used to prevent conflicting writes and race conditions.
 
-<br>
+This is a research/architecture project — not a live trading system or financial advisory tool.
 
-## 🛠️ Technical Skills
+`Python` `asyncio` `PostgreSQL` `Multi-Agent Orchestration` `Concurrency Control`
 
-<img src="https://skillicons.dev/icons?i=java,python,c,flask,docker,git,github&theme=dark" alt="tech stack" />
+### 03 · AceInterview AI
 
-**Currently working with:** Java, Python, Flask, Docker, Git/GitHub, IBM watsonx.ai, Google ADK, REST APIs.
+An AI-powered interview preparation platform built during the IBM SkillsBuild internship. A `Flask` application that uses `IBM Granite` via `watsonx.ai` to generate interview questions and provide code-review feedback on submitted answers.
 
-<br>
+`Python` `Flask` `IBM watsonx.ai` `IBM Granite`
 
-## 🧩 Competitive Programming
+### 04 · Fairlytix
 
-Competitive programming has been one of the biggest drivers of my growth as a software engineer. Through solving **2,500+ algorithmic problems** across major competitive programming platforms, I've strengthened my understanding of algorithms, data structures, debugging, and writing efficient, reliable code under time constraints.
+A hackathon prototype built at the IIT Jammu AI Summer School Hackathon with team Negoti-AI-tors (3 people). Explores quote-fairness assessment and market benchmarking to support negotiation decisions. My contributions covered product engineering, frontend development, and data architecture. This is a prototype, not a deployed or production system.
 
-<br>
+`Prototype` `Hackathon`
 
-## 🏆 Achievements
+### Other AI Projects
 
-- Top 24 Finalist — HACK IITK 2026 (C3iHub, IIT Kanpur)
-- Global Rank 56 — PsychCTF 2026, Team Captain
-- Runner-up — CTF 2k25 (MMMUT)
-- Team Leader, Rank 9/118 — Internal Smart India Hackathon, MMMUT
+**AcePilot AI** — AI career guidance agent built on `IBM watsonx Orchestrate` during the IBM SkillsBuild internship.
 
-<br>
+## Experience
 
-## 📊 GitHub Stats
+### Indian Institute of Technology Jammu
+**AI Summer School Intern — LLMs, GenAI, Automations & AI Agents**
+Jun 2026 – Aug 2026 · Techible × I3C, IIT Jammu
 
-<div align="center">
+Built n8n automation workflows integrating REST APIs, webhooks, and AI services. Designed and implemented YaiyuResearch AI and FinVriksh AI using Python, PostgreSQL/Supabase, RAG, embeddings, and multi-agent architectures.
 
-<img src="https://streak-stats.demolab.com?user=Aman-Singh-07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-<br>
+### IBM SkillsBuild × Edunet Foundation
+**Emerging Technologies Intern**
+Jun 2026 – Jul 2026
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-Singh-07&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%"/>
+Built AceInterview AI (Flask, IBM Granite, watsonx.ai) and AcePilot AI (IBM watsonx Orchestrate) as part of a program covering Generative AI, Agentic AI, Cybersecurity, and Quantum Computing.
 
-</div>
+## Technical Stack
 
-<br>
+**Languages:** Java · Python · C · TypeScript
+
+**AI / LLM:** LLMs · Generative AI · AI Agents · RAG · Hugging Face Transformers · LangChain · Embeddings · Prompt Engineering
+
+**Backend / Automation:** Flask · REST APIs · Webhooks · n8n · Workflow Automation
+
+**Data:** PostgreSQL · Supabase · pgvector · Database Migrations
+
+**Engineering:** Git · GitHub · Docker · Debugging
+
+**IBM:** watsonx.ai · watsonx Orchestrate · Granite
+
+**Core CS:** Data Structures & Algorithms · Competitive Programming · Object-Oriented Programming
+
+## Competitive Programming
+
+| Platform | Rank | Peak Rating | Volume |
+|---|---|---|---|
+| LeetCode | Knight | 2039 | 630+ solved · 500+ day streak |
+| Codeforces | Pupil | 1259 | 640+ solved |
+| CodeChef | 2★ | 1565 | 1400+ solved |
+
+## Hackathons & Achievements
+
+- **HACK IITK 2026** — Grand Finale Finalist, Top 24 (C3iHub, IIT Kanpur)
+- **PsychCTF 2026** — Global Rank 56, team 5ev3n (SAIC, IIT Mandi)
+
+## Education
+
+**Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur**
+B.Tech in Computer Science & Engineering
+CGPA: **9.81/10**
+Aug 2024 – Present
+
+## Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL) · [GitHub](YOUR_GITHUB_URL) · [LeetCode](YOUR_LEETCODE_URL) · [Codeforces](YOUR_CODEFORCES_URL)
