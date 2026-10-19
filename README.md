@@ -2,169 +2,139 @@
 
 # Aman Singh
 
-**AI/LLM & Agent Engineering · Backend Systems · Competitive Programming**
+**AI Systems & Backend Engineering · LLMs, RAG & Agentic Workflows · Java DSA**
 
-B.Tech CSE @ MMMUT, Gorakhpur · CGPA 9.81/10
+B.Tech CSE @ MMMUT, Gorakhpur · **CGPA: 9.86/10**
+
+[LinkedIn](https://www.linkedin.com/in/aman-singh-3a4a06327) · [Email](mailto:amansingh17112004@gmail.com) · [GitHub Repositories](https://github.com/Aman-Singh-07?tab=repositories)
 
 </div>
 
-<br>
-
 ## About
 
-An AI system isn't just an API call to an LLM. It's ingestion, deduplication, retrieval, state, concurrency, and failure handling — the same engineering problems as any backend system, with a model in the loop. That's the lens I build with: multi-agent systems that combine LLMs and retrieval with real backend and database engineering underneath them.
+An AI system is more than an API call to an LLM. It also needs ingestion, deduplication, retrieval, persistent state, concurrency control, and failure handling. I build AI workflows with backend and database engineering underneath them.
 
-Alongside that, I compete in DSA/competitive programming in Java — LeetCode Knight, Codeforces Pupil, CodeChef 2★.
+My current interests are reliable LLM applications, retrieval-augmented generation (RAG), multi-agent workflows, and backend systems. Alongside project work, I practise data structures and algorithms in Java through competitive programming.
 
-Currently: AI Summer School Intern at IIT Jammu · Emerging Technologies Intern at IBM SkillsBuild via Edunet Foundation.
+## Featured Systems
 
-<br>
+### 01 · [YaiyuResearch AI](https://github.com/Aman-Singh-07/YaiyuResearch-AI)
 
-## Systems
-
-### 01 · YaiyuResearch AI
-**Multi-agent research pipeline, orchestrated with n8n**
+**Multi-agent research pipeline orchestrated with n8n**
 
 ```text
-sources
- ↓
-ingest
- ↓
-dedup
- ↓
-embed
- ↓
-vector store
- ↓
-retrieve
- ↓
-agents
- ↓
-approval
- ↓
-synthesis
+Sources → Ingestion → Deduplication → Embeddings → Vector Store
+        → Retrieval → Agents → Human Approval → Synthesis
 ```
 
-Source documents are embedded and stored in Supabase/PostgreSQL with `pgvector`. HNSW indexing supports similarity retrieval. `SHA-256` hashing deduplicates incoming sources so the same document doesn't repeatedly re-enter the pipeline. Workflow state is persisted in PostgreSQL, allowing the process to resume across stages and pause for human approval before final synthesis. External academic APIs feed the ingestion stage.
+- Stores embeddings in Supabase/PostgreSQL with `pgvector`; HNSW indexing supports similarity retrieval.
+- Uses SHA-256 hashing to avoid repeatedly ingesting the same source.
+- Persists workflow state in PostgreSQL to support stage-by-stage progress and resumption.
+- Includes human-approval checkpoints before final synthesis and connects to external academic APIs for ingestion.
 
-| Component | Why it's there |
-|---|---|
-| `pgvector` + HNSW | Efficient similarity retrieval |
-| `SHA-256` deduplication | Prevents redundant ingestion of the same source |
-| PostgreSQL state | Resumability across pipeline stages |
-| Human approval | Controlled synthesis rather than unchecked output |
+`n8n` · `Python` · `Supabase` · `PostgreSQL` · `pgvector` · `RAG` · `Embeddings`
 
-`n8n` `Supabase` `PostgreSQL` `pgvector` `RAG` `Embeddings`
+[Repository](https://github.com/Aman-Singh-07/YaiyuResearch-AI) · [Demo Video](https://drive.google.com/file/d/1fbRZ5nTf2KxS5bZnOCVAypzCMDEvsfkx/view?usp=sharing)
 
-[GitHub](https://github.com/Aman-Singh-07/YaiyuResearch-AI) · [Demo Video](https://drive.google.com/file/d/1fbRZ5nTf2KxS5bZnOCVAypzCMDEvsfkx/view?usp=sharing)
+### 02 · [FinVriksh AI](https://github.com/Aman-Singh-07/FinVriksh-AI)
 
----
-
-### 02 · FinVriksh AI
 **Multi-agent financial research architecture**
 
 ```text
-Planner
- ↓
-MarketData / News / Filings
- ↓
-ReportSynthesis
- ↓
-PostgreSQL state ↔ OCC
+Planner → Market Data / News / Filings → Report Synthesis
+                         PostgreSQL state + approval checkpoints
 ```
 
-Five specialized agents — Planner, MarketData, News, Filings, and ReportSynthesis — coordinate through a DAG with finite-state workflow transitions. MarketData, News, and Filings execute concurrently via `asyncio.gather`. Shared state is PostgreSQL-backed with approval checkpoints between stages. Because multiple agents can attempt to update shared state at the same time, Optimistic Concurrency Control (OCC) is used to mitigate conflicting writes and race conditions.
+- Organizes five specialist agents-Planner, MarketData, News, Filings, and ReportSynthesis-through a DAG and finite-state workflow.
+- Runs MarketData, News, and Filings tasks concurrently using `asyncio.gather`.
+- Uses PostgreSQL-backed state and optimistic concurrency control (OCC) to help mitigate conflicting updates.
 
-> Research/architecture project — not a live trading system or financial advisory tool.
+`Python` · `asyncio` · `PostgreSQL` · `DAG Orchestration` · `Concurrency Control`
 
-`Python` `asyncio` `PostgreSQL` `Multi-Agent Orchestration` `Concurrency Control`
+[Repository](https://github.com/Aman-Singh-07/FinVriksh-AI) · [Live Demo](https://fin-vriksh-ai.vercel.app) · [Demo Video](https://drive.google.com/file/d/1r0s5RYi6pNk0KWiVogQTc3SUQCQNX2u8/view?usp=sharing)
 
-[GitHub](https://github.com/Aman-Singh-07/FinVriksh-AI) · [Live Demo](https://fin-vriksh-ai.vercel.app) · [Demo Video](https://drive.google.com/file/d/1r0s5RYi6pNk0KWiVogQTc3SUQCQNX2u8/view?usp=sharing)
+> FinVriksh AI is a research/architecture project, not a live trading system or financial advisory tool.
 
-<br>
+## Applied AI Projects
 
-## Applied AI
+### [AceInterview AI](https://github.com/Aman-Singh-07/AceInterview-AI)
 
-### AceInterview AI
+An AI-powered interview preparation application built with Flask and IBM Granite through watsonx.ai. It generates interview questions and provides code-review feedback on submitted answers.
 
-AI-powered interview preparation platform built during the IBM SkillsBuild internship. A Flask application using IBM Granite via watsonx.ai to generate interview questions and provide code-review feedback on submitted answers.
+`Python` · `Flask` · `IBM watsonx.ai` · `IBM Granite`
 
-`Python` `Flask` `IBM watsonx.ai` `IBM Granite`
+[Repository](https://github.com/Aman-Singh-07/AceInterview-AI) · [Live Demo](https://aceinterview-ai-26i2.onrender.com)
 
-[GitHub](https://github.com/Aman-Singh-07/AceInterview-AI) · [Live Demo](https://aceinterview-ai-26i2.onrender.com)
+### [AcePilot AI - Multi-Agent Career Copilot](https://github.com/Aman-Singh-07/AcePilot-AI)
 
-### Fairlytix
+A career-guidance assistant built around a coordinator and specialist agents for résumé feedback, project recommendations, learning roadmaps, and interview preparation. The public repository documents Google ADK, Gemini 2.0 Flash, GitHub API access through MCP, and a Streamlit interface.
 
-AI-assisted fairness and negotiation platform built during the IIT Jammu AI Summer School Hackathon with team **Negoti-AI-tors** (3 people). The system explores quote-fairness assessment, market benchmarking, and negotiation support. My contributions focused on **Product Engineering, Frontend Development, and Data Architecture**.
+`Python` · `Google ADK` · `Gemini` · `MCP` · `Streamlit`
 
-**Status:** Working hackathon implementation with a deployed demo.
+[Repository](https://github.com/Aman-Singh-07/AcePilot-AI) · [Live Demo](https://acepilot-ai-6kkhfyjhsyzgh7n46n2rhb.streamlit.app/)
 
-`Hackathon` `AI-Assisted Fairness Analysis` `Negotiation Support`
+### [Fairlytix](https://github.com/FairlytixHQ/fairlytix)
 
-[GitHub](https://github.com/FairlytixHQ/fairlytix) · [Live Demo](https://fairlytix-deploy.vercel.app)
+An AI-assisted fairness and negotiation platform developed during the IIT Jammu AI Summer School hackathon with the three-person team **Negoti-AI-tors**. The project explores quote-fairness assessment, market benchmarking, and negotiation support. My contributions focused on product engineering, frontend development, and data architecture.
 
-### AcePilot AI
+`AI-Assisted Analysis` · `Product Engineering` · `Data Architecture`
 
-AI career guidance agent built using IBM watsonx Orchestrate during the IBM SkillsBuild internship.
-
-<br>
+[Repository](https://github.com/FairlytixHQ/fairlytix) · [Live Demo](https://fairlytix-deploy.vercel.app)
 
 ## Experience
 
-### Indian Institute of Technology Jammu
+### IIT Jammu - AI / Generative AI Summer School Intern
 
-**AI Summer School Intern — LLMs, GenAI, Automations & AI Agents**
-Jun 2026 – Aug 2026 · Techible × I3C, IIT Jammu
+**Jun 2026 - Aug 2026** · Techible × Institute Incubation and Innovation Council (I3C)
 
-Built n8n automation workflows integrating REST APIs, webhooks, and AI services. Designed and implemented YaiyuResearch AI and FinVriksh AI, working with Python, PostgreSQL/Supabase, RAG, embeddings, and multi-agent architectures.
+Built n8n automation workflows integrating REST APIs, webhooks, and AI services. Worked on AI systems involving Python, PostgreSQL/Supabase, RAG, embeddings, and multi-agent architectures.
 
-### IBM SkillsBuild × Edunet Foundation
+### IBM SkillsBuild × AICTE × Edunet Foundation - Emerging Technologies Intern
 
-**Emerging Technologies Intern**
-Jun 2026 – Jul 2026
+**Jun 2026 - Jul 2026**
 
-Built AceInterview AI and AcePilot AI as part of a program covering Generative AI, Agentic AI, Cybersecurity, and Quantum Computing.
+Built AceInterview AI using Python, Flask, and IBM Granite via watsonx.ai. The programme covered Generative AI, Agentic AI, Cybersecurity, and Quantum Computing.
 
-<br>
+## Leadership & Service
 
-## Stack
+### Special Invitee Member - Students’ Grievance Redressal Committee (SGRC), MMMUT
 
-| | |
+**Oct 2026 – Oct 2028** · Appointed for a two-year term
+
+Appointed as a Special Invitee Member of MMMUT’s university-level Students’ Grievance Redressal Committee.
+
+## Technical Stack
+
+| Area | Technologies |
 |---|---|
-| **Languages** | Java · Python · C · TypeScript |
-| **AI / LLM** | LLMs · Generative AI · AI Agents · RAG · Hugging Face Transformers · LangChain · Embeddings · Prompt Engineering |
-| **Backend / Automation** | Flask · REST APIs · Webhooks · n8n · Workflow Automation |
-| **Data** | PostgreSQL · Supabase · pgvector · Database Migrations |
-| **Engineering** | Git · GitHub · Docker · Debugging |
-| **IBM** | watsonx.ai · watsonx Orchestrate · Granite |
-| **Core CS** | Data Structures & Algorithms · Competitive Programming · OOP |
+| Languages | Java · Python · C · TypeScript |
+| AI / LLM | LLMs · Generative AI · AI Agents · RAG · Hugging Face Transformers · LangChain · Embeddings · Prompt Engineering |
+| Backend / Automation | Flask · REST APIs · Webhooks · n8n · Workflow Automation |
+| Data | PostgreSQL · Supabase · pgvector · Database Migrations |
+| Engineering Tools | Git · GitHub · Docker · Debugging |
+| IBM | watsonx.ai · watsonx Orchestrate · Granite |
+| Core CS | Data Structures & Algorithms · Competitive Programming · OOP |
 
-<br>
+## Competitive Programming & Achievements
 
-## Competitive Programming
-
-| Platform | Rank | Peak Rating | Volume |
+| Platform | Rank | Peak Rating | Progress |
 |---|---|---:|---|
-| LeetCode | Knight | 2039 | 630+ solved · 500+ day streak |
-| Codeforces | Pupil | 1259 | 640+ solved |
-| CodeChef | 2★ | 1565 | 1400+ solved |
+| LeetCode | Knight | 2039 | 630+ solved · 550+ day streak |
+| Codeforces | Pupil | 1259 | 700+ solved |
+| CodeChef | 2★ | 1565 | 1,450+ solved |
 
-**HACK IITK 2026** — Grand Finale Finalist, Top 24 (C3iHub, IIT Kanpur)
-**PsychCTF 2026** — Global Rank 56, team 5ev3n (SAIC, IIT Mandi)
-
-<br>
+- **HACK IITK 2026:** Grand Finale Finalist, Top 24 - C3iHub, IIT Kanpur.
+- **PsychCTF 2026:** Global Rank 56 - Team 5ev3n, SAIC, IIT Mandi.
 
 ## Education
 
-**Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur**
-B.Tech in Computer Science & Engineering · CGPA 9.81/10 · Aug 2024 – Present
+**Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur**  
+B.Tech in Computer Science & Engineering · **CGPA: 9.86/10** · Aug 2024 – Present
 
-<br>
+---
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/aman-singh-3a4a06327) ·
-[Email](mailto:amansingh17112004@gmail.com) ·
-[GitHub](https://github.com/Aman-Singh-07)
+[LinkedIn](https://www.linkedin.com/in/aman-singh-3a4a06327) · [Email](mailto:amansingh17112004@gmail.com) · [GitHub](https://github.com/Aman-Singh-07)
 
 </div>
